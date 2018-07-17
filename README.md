@@ -16,10 +16,6 @@ So, I started to collect animation effects... and in two days, this project born
 [Download Demo](https://github.com/daimajia/AndroidViewAnimations/releases/download/v1.1.2/AndroidViewAnimations-1.1.2.apk)
 # Usage
 
-> Since Version 2.0, NineOldAndroids has been removed. Thanks Jake Wharton.
-
-For making animations more real, I created another project named [Android Easing Functions](https://github.com/daimajia/AnimationEasingFunctions) which is an implementations of [easing functions](http://easings.net/) on Android. So, we need to dependent that project.
-
 ## Step 1
 
 #### Gradle
@@ -100,10 +96,3 @@ Welcome contribute your amazing animation effect. :-D
 
 - [AFViewShaker](https://github.com/ArtFeel/AFViewShaker)
 - [Animate.css](https://github.com/daneden/animate.css)
-
-# About me
-
-A student in mainland China. 
-
-Welcome to [offer me an internship](mailto:daimajia@gmail.com).
-If you have any new idea about this project, feel free to [contact me](mailto:daimajia@gmail.com).
